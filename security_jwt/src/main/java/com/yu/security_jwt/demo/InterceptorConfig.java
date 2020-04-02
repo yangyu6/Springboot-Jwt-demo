@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * @description:
  * @create: 2020-04-01 16:10
  **/
-//@Configuration
+//@Configuration // 使用interceptor 时打开
 public class InterceptorConfig implements WebMvcConfigurer {
 
     @Autowired
