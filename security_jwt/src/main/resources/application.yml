@@ -1,0 +1,7 @@
+server:
+  port: 9090
+jwt:
+  config:
+    secret: haha  # 加密的secret
+    ttl: 3000  # token超时时间 秒
+
