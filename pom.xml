@@ -17,7 +17,7 @@
 
     <modules>
         <module>security_jwt</module>
-        <module>security_shiro_jwt</module>
+        <module>spring_security_jwt</module>
     </modules>
 
     <properties>
